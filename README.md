@@ -6,4 +6,4 @@ You can find more on my website -> [raythefox.pw](raythefox.pw)
 
 My open source projects can be found in the repositories tab.
 
-[![My Skills](https://skillicons.dev/icons?i=php,flutter,html,css,js,nodejs,vue,cs,androidstudio,kotlin,python,git,md,cloudflare,arch,debian,kali,ubuntu,mint,linux,windows,apple,raspberrypi,bots,docker,bash,nginx,obsidian,vscode,discord,telegram,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,flutter,html,css,js,nodejs,vue,cs,androidstudio,kotlin,python,git,md,cloudflare,arch,debian,kali,ubuntu,mint,linux,windows,apple,raspberrypi,bots,docker,bash,nginx,obsidian,vscode,discord)](https://skillicons.dev)
